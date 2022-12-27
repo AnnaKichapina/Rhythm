@@ -216,7 +216,7 @@ li {
 .main__text {
 	line-height: 24px;
 	font-weight: 500;
-	min-width: 420px;
+	max-width: 420px;
 }
 
 .main__text:not(:last-child) {
