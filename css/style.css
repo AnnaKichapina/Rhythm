@@ -624,10 +624,15 @@ li {
 }
 /* ----------------------------------------------- */
 .why {
+	background-color: #121212;
+	padding-top: 90px;
+	padding-bottom: 90px;
 }
 .why__container {
 }
 .why__title {
+	margin-bottom: 80px;
+	color: #fff;
 }
 .why__items {
 }
@@ -635,6 +640,8 @@ li {
 }
 
 .item-why {
+	display: grid;
+	align-items: center;
 }
 .item-why__icon {
 }
