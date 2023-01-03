@@ -642,6 +642,7 @@ li {
 .item-why {
 	display: grid;
 	align-items: center;
+	padding: 40px;
 }
 .item-why__icon {
 }
