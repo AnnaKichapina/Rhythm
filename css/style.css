@@ -78,6 +78,8 @@ li {
 
 .page__brands {}
 
+.page__why {}
+
 /* ------------------------------------------ */
 [class*="__container"] {
 	max-width: 1230px;
@@ -619,4 +621,24 @@ li {
 		justify-content: center;
 		grid-template-columns: repeat(2, auto);
 	}
+}
+/* ----------------------------------------------- */
+.why {
+}
+.why__container {
+}
+.why__title {
+}
+.why__items {
+}
+.why__item {
+}
+
+.item-why {
+}
+.item-why__icon {
+}
+.item-why__title {
+}
+.item-why__text {
 }
